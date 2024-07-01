@@ -20,7 +20,6 @@ result = fvd.calculate_fvd(
 ```
 
 ## Citation
-If you are using FVD please cite us!
 ```
 @article{unterthiner2018towards,
   title={Towards Accurate Generative Models of Video: A New Metric \& Challenges},
